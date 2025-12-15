@@ -42,7 +42,7 @@ hate-speech-detection-matlab/
 ├── results/                 # Output visualizations
 ├── docs/                    # Dissertation & reports
 ├── README.md               # This file
-└── LICENSE                 # MIT License
+
 
 
 
