@@ -12,8 +12,10 @@
 This is my *Master's Dissertation project* from the *University of East London, implementing an automated hate speech detection system for social media using **MATLAB. The system classifies text into three categories: **hateful, **offensive, and **neutral*.
 
 ## 📊 Results (From My Dissertation)
-| Model | Accuracy …
-Tulasi Gowdru Halesh: 
+| Model | Accuracy 
+
+Tulasi Gowdru Halesh
+
 # Hate Speech Detection on Social Media Using MATLAB
 
 ## 📊 Results Summary
