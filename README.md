@@ -53,5 +53,3 @@ hate-speech-detection-matlab/
 - *Email:* tulasigowdruhalesh21@gmail.com
 - *LinkedIn:* www.linkedin.com/in/tulasi-gh-645221257
 
-## 📄 License
-MIT License
