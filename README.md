@@ -13,7 +13,8 @@ This is my *Master's Dissertation project* from the *University of East London, 
 
 ## 📊 Results (From My Dissertation)
 | Model | Accuracy …
-[6:42 pm, 15/12/2025] Tulasi G H: # Hate Speech Detection on Social Media Using MATLAB
+Tulasi Gowdru Halesh: 
+# Hate Speech Detection on Social Media Using MATLAB
 
 ## 📊 Results Summary
 | Model | Accuracy | Precision | Recall | F1-Score | AUC-ROC |
