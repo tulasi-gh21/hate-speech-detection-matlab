@@ -48,8 +48,8 @@ hate-speech-detection-matlab/
 - *Supervisor:* Rahime Belen Saglam
 
 ## 📫 Contact
-- *Email:* your.email@example.com
-- *LinkedIn:* [Your Profile Link]
+- *Email:* tulasigowdruhalesh21@gmail.com
+- *LinkedIn:* www.linkedin.com/in/tulasi-gh-645221257
 
 ## 📄 License
 MIT License
