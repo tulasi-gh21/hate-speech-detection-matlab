@@ -1,4 +1,6 @@
-[6:27 pm, 15/12/2025] Tulasi G H: # 🎓 Hate Speech Detection on Social Media Using MATLAB: SVM vs. Naive Bayes
+ Tulasi Gowdru Halesh
+ 
+ 🎓 Hate Speech Detection on Social Media Using MATLAB: SVM vs. Naive Bayes
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2023b-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
