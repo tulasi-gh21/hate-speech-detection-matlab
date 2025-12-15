@@ -1,22 +1,4 @@
-[5:24 pm, 15/12/2025] Tulasi G H: # Hate Speech Detection on Social Media
-
-## About Me
-I completed my Master’s degree in Computer Science at the University of East London.
-I passed with Distinction.
-
-## Project Overview
-This project focuses on detecting hate speech on social media using Machine Learning techniques implemented in MATLAB.
-
-## Tools and Techniques
-- MATLAB
-- Support Vector Machine (SVM)
-- Naive Bayes Classifier
-- Text Processing and Feature Extraction
-
-## Description
-The system analyses social media text data and classifies content as hate speech or non-hate speech.
-This project was developed as part of my MSc Computer Science degree at the University of East London.
-[5:47 pm, 15/12/2025] Tulasi G H: # Hate Speech Detection on Social Media Using MATLAB: SVM vs. Naive Bayes
+[6:27 pm, 15/12/2025] Tulasi G H: # 🎓 Hate Speech Detection on Social Media Using MATLAB: SVM vs. Naive Bayes
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2023b-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
@@ -25,18 +7,20 @@ This project was developed as part of my MSc Computer Science degree at the Univ
 ![Research](https://img.shields.io/badge/Research-MSc_Dissertation-purple)
 
 ## 📖 Project Overview
-This is my *Master's Dissertation* project from the *University of East London, implementing an automated hate speech detection system for social media using **MATLAB. The system classifies text into three categories: **hateful, **offensive, and **neutral*.
+This is my *Master's Dissertation project* from the *University of East London, implementing an automated hate speech detection system for social media using **MATLAB. The system classifies text into three categories: **hateful, **offensive, and **neutral*.
 
 ## 📊 Results (From My Dissertation)
+| Model | Accuracy …
+[6:42 pm, 15/12/2025] Tulasi G H: # Hate Speech Detection on Social Media Using MATLAB
+
+## 📊 Results Summary
 | Model | Accuracy | Precision | Recall | F1-Score | AUC-ROC |
 |-------|----------|-----------|--------|----------|---------|
 | *Support Vector Machine (SVM)* | *99.18%* | 0.986 | 1.000 | 0.993 | 1.000 |
 | *Naive Bayes* | 50.14% | 0.877 | 0.459 | 0.602 | 0.573 |
 
-*Key Findings:*
-- SVM achieved *99.18% accuracy* with perfect recall (1.000) for hateful and offensive content
-- Perfect AUC-ROC score of *1.000* demonstrating excellent class separation
-- Naive Bayes struggled due to its independence assumption in natural language
+## 📖 Project Overview
+This Master's Dissertation project from the University of East London implements a hate speech detection system for social media using MATLAB. The system classifies text into three categories: *hateful, **offensive, and **neutral*.
 
 ## 🛠️ Technologies Used
 - *Programming Language:* MATLAB R2023b
@@ -44,21 +28,28 @@ This is my *Master's Dissertation* project from the *University of East London, 
 - *Algorithms:* Linear SVM, Multinomial Naive Bayes
 - *Feature Extraction:* TF-IDF, Bag-of-Words
 - *Evaluation:* Confusion Matrix, ROC Curves, Precision-Recall, F1-Score
-
 ## 📁 Project Structure
-```
+
 
 hate-speech-detection-matlab/
-├── data/                    # Dataset (hate_speech_1829.csv)
-├── src/                     # MATLAB source code (.m files)
-│   ├── preprocessing.m
-│   ├── feature_extraction.m
-│   ├── train_svm.m
-│   ├── train_naive_bayes.m
-│   └── evaluate_models.m
-├── results/                 # Outputs and visualizations
-│   ├── confusion_matrices/
-│   ├── roc_curves/
-│   └── performance_metrics.csv
-├── docs/                    # Dissertation and reports
-└── README.md               # This file
+├── data/                    # Dataset files
+├── src/                     # MATLAB source code
+├── results/                 # Output visualizations
+├── docs/                    # Dissertation & reports
+├── README.md               # This file
+└── LICENSE                 # MIT License
+
+
+
+## 🎓 Academic Information
+- *University:* University of East London
+- *Degree:* MSc Computer Science (Distinction)
+- *Student:* Tulasi Gowdru Halesh
+- *Supervisor:* Rahime Belen Saglam
+
+## 📫 Contact
+- *Email:* your.email@example.com
+- *LinkedIn:* [Your Profile Link]
+
+## 📄 License
+MIT License
