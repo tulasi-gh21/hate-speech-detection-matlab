@@ -45,4 +45,20 @@ This is my *Master's Dissertation* project from the *University of East London, 
 - *Feature Extraction:* TF-IDF, Bag-of-Words
 - *Evaluation:* Confusion Matrix, ROC Curves, Precision-Recall, F1-Score
 
+## 📁 Project Structure
+```
 
+hate-speech-detection-matlab/
+├── data/                    # Dataset (hate_speech_1829.csv)
+├── src/                     # MATLAB source code (.m files)
+│   ├── preprocessing.m
+│   ├── feature_extraction.m
+│   ├── train_svm.m
+│   ├── train_naive_bayes.m
+│   └── evaluate_models.m
+├── results/                 # Outputs and visualizations
+│   ├── confusion_matrices/
+│   ├── roc_curves/
+│   └── performance_metrics.csv
+├── docs/                    # Dissertation and reports
+└── README.md               # This file
