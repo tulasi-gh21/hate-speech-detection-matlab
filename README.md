@@ -22,4 +22,13 @@ This is my *Master's Dissertation project* from the *University of East London. 
 - *Feature Extraction:* TF-IDF, Bag-of-Words
 - *Evaluation:* Confusion Matrix, ROC Curves, Precision-Recall, F1-Score
 
-## 📁 Project Structure
+## ## 🎓 Academic Information
+- *University:* University of East London
+- *Degree:* MSc Computer Science (Distinction)
+- *Student:* Tulasi Gowdru Halesh
+- *Supervisor:* Rahime Belen Saglam
+
+## 📫 Contact
+- *Email:* tulasigowdruhalesh21@gmail.com
+- *LinkedIn:* https://www.linkedin.com/in/tulasi-gh-645221257
+
