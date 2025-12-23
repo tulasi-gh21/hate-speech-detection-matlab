@@ -1,4 +1,11 @@
- # Hi, I'm Tulasi Gowdru Halesh
+# Hi, I'm Tulasi Gowdru Halesh
+
+- *Hate Speech Detection on Social Media Using MATLAB: SVM vs. Naive Bayes*
+
+| MATLAB | R2023b | Machine | Learning |
+|---|---|---|---|
+| Natural | Language Processing | Accuracy | 99.18% |
+| Research | MSc Dissertation | Results | 99.18% SVM |
 
 ---
 
@@ -12,37 +19,35 @@
 
 ---
 
-## 🏆 Featured Project
+## 🎯 Project Details
 
-### Hate Speech Detection on Social Media Using MATLAB
-*Achieved 99.18% accuracy* with Support Vector Machines
+*Achieved 99.18% accuracy* with Support Vector Machines for detecting hate speech in social media text. The system classifies content into three categories: *Hateful, Offensive, and Neutral*.
 
-*Results:*
+### *Results Summary:*
 | Model | Accuracy | Precision | Recall | F1-Score |
 |-------|----------|-----------|--------|----------|
-| *SVM* | *99.18%* | 0.986 | 1.000 | 0.993 |
-| Naive Bayes | 50.14% | 0.877 | 0.459 | 0.602 |
-
-*Tech:* MATLAB, SVM, Naive Bayes, TF-IDF, Text Analytics
+| *Support Vector Machine (SVM)* | *99.18%* | 0.986 | 1.000 | 0.993 |
+| *Naive Bayes* | 50.14% | 0.877 | 0.459 | 0.602 |
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies Used
 
-| Category | Skills |
-|----------|--------|
-| *Programming* | MATLAB, Python, SQL |
-| *Machine Learning* | SVM, Naive Bayes, Scikit-learn |
-| *Data Science* | Pandas, NumPy, Data Visualization |
-| *Tools* | GitHub, Jupyter, VS Code |
+| Category | Tools & Technologies |
+|----------|---------------------|
+| *Programming* | MATLAB R2023b |
+| *Toolboxes* | Text Analytics, Statistics & ML Toolbox |
+| *Algorithms* | Linear SVM, Multinomial Naive Bayes |
+| *Features* | TF-IDF, Bag-of-Words, Text Preprocessing |
+| *Evaluation* | Confusion Matrix, ROC Curves, Precision-Recall |
 
 ---
 
-## 📚 Education
+## 🎓 Academic Information
 
-*MSc Computer Science* – University of East London  
-*Grade:* Distinction  
-*Dissertation:* Hate Speech Detection on Social Media  
+*University of East London* | MSc Computer Science (Distinction)  
+*Supervisor:* Rahime Belen Saglam  
+*Student:* Tulasi Gowdru Halesh  
 *Location:* London, UK
 
 ---
