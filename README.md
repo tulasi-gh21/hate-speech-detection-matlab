@@ -1,31 +1,4 @@
-[Hi, I'm Tulasi Gowdru Halesh
-
-- *Hate Speech Detection on Social Media Using MATLAB:* SVM vs. Naive Bayes
-
-| MATLAB | R2023b | Machine | Learning |
-|---|---|---|---|
-| Natural | Language Processing | Accuracy | 99.18% |
-| Research | MSc Dissertation | Results | 99.18% SVM |
-
----
-
-### About Me
-
-- ✓ *Completed MSc Computer Science* with *Distinction* from University of East London
-- 🎯 *Seeking:* Artificial Intelligence and Data Science engineering roles
-- 🔬 *Specialized in:* Machine Learning, NLP, Data Analysis
-- 📍 *Based in:* London, UK
-- 🔭 *Currently:* Working on hate speech detection research
-
----
-
-### Project Results
-
-*Achieved 99.18% accuracy* with Support Vector Machines:
-
-| Model | Accuracy | Precision | Recall | F1-Score |
-|-------|----------|---------…
-[4:33 pm, 23/12/2025] Tulasi G H: # Hi, I'm Tulasi Gowdru Halesh
+# Hi, I'm Tulasi Gowdru Halesh
 
 ---
 
@@ -91,3 +64,6 @@
 📧 *Email:* tulasigowdruhalesh21@gmail.com  
 💼 *LinkedIn:* www.linkedin.com/in/tulasi-gh-645221257  
 💻 *GitHub:* github.com/tulasi-gh21
+
+
+
