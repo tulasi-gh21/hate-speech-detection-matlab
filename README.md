@@ -1,4 +1,4 @@
- # Hi, I'm Tulasi Gowdru Halesh
+[Hi, I'm Tulasi Gowdru Halesh
 
 - *Hate Speech Detection on Social Media Using MATLAB:* SVM vs. Naive Bayes
 
