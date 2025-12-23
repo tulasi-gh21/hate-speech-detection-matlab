@@ -1,58 +1,52 @@
- Tulasi Gowdru Halesh
- 
- 🎓 Hate Speech Detection on Social Media Using MATLAB: SVM vs. Naive Bayes
+ Ti, I'm Tulasi Gowdru Halesh
 
-![MATLAB](https://img.shields.io/badge/MATLAB-R2023b-blue)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
-![NLP](https://img.shields.io/badge/Natural-Language_Processing-green)
-![Accuracy](https://img.shields.io/badge/Accuracy-99.18%25-brightgreen)
-![Research](https://img.shields.io/badge/Research-MSc_Dissertation-purple)
+MSc Computer Science Graduate | Machine Learning | NLP Specialist
 
-## 📖 Project Overview
-This is my *Master's Dissertation project* from the *University of East London, implementing an automated hate speech detection system for social media using **MATLAB. The system classifies text into three categories: **hateful, **offensive, and **neutral*.
+---
 
-## 📊 Results (From My Dissertation)
-| Model | Accuracy 
+## About Me
 
-Tulasi Gowdru Halesh
+- *Completed MSc Computer Science* with *Distinction* from University of East London
+- *Passionate about Machine Learning, NLP & Data Science*
+- *Interested in* hate speech detection and social media analysis
+- *Working on* MATLAB-based NLP systems for content moderation
+- *Currently based in London, UK*
 
-# Hate Speech Detection on Social Media Using MATLAB
+---
 
-## 📊 Results Summary
-| Model | Accuracy | Precision | Recall | F1-Score | AUC-ROC |
-|-------|----------|-----------|--------|----------|---------|
-| *Support Vector Machine (SVM)* | *99.18%* | 0.986 | 1.000 | 0.993 | 1.000 |
-| *Naive Bayes* | 50.14% | 0.877 | 0.459 | 0.602 | 0.573 |
+## Tech Stack & Tools
 
-## 📖 Project Overview
-This Master's Dissertation project from the University of East London implements a hate speech detection system for social media using MATLAB. The system classifies text into three categories: *hateful, **offensive, and **neutral*.
+| Category | Skills |
+|----------|--------|
+| *Languages* | MATLAB, Python, SQL |
+| *Machine Learning* | SVM, Naive Bayes, Scikit-learn |
+| *NLP & Text Analytics* | TF-IDF, Bag-of-Words, Tokenization |
+| *Data Analysis* | Pandas, NumPy, Data Visualization |
+| *Tools* | GitHub, Jupyter Notebook, VS Code |
 
-## 🛠️ Technologies Used
-- *Programming Language:* MATLAB R2023b
-- *Toolboxes:* Text Analytics Toolbox, Statistics and Machine Learning Toolbox
-- *Algorithms:* Linear SVM, Multinomial Naive Bayes
-- *Feature Extraction:* TF-IDF, Bag-of-Words
-- *Evaluation:* Confusion Matrix, ROC Curves, Precision-Recall, F1-Score
-## 📁 Project Structure
+---
 
+## Featured Projects
 
-hate-speech-detection-matlab/
-├── data/                    # Dataset files
-├── src/                     # MATLAB source code
-├── results/                 # Output visualizations
-├── docs/                    # Dissertation & reports
-├── README.md               # This file
+| Project | Description | Tech |
+|---------|-------------|------|
+| *Hate Speech Detection System* | Detects hateful/offensive content on social media with 99.18% accuracy | MATLAB, SVM, NLP |
+| *Text Classification Pipeline* | Complete NLP pipeline for multi-class text classification | MATLAB, TF-IDF |
+| *Machine Learning Comparison* | Comparative analysis of SVM vs Naive Bayes algorithms | MATLAB, Statistics |
 
+---
 
+## Education
 
+*MSc Computer Science* – University of East London  
+*Dissertation:* Hate Speech Detection on Social Media Using SVM and Naive Bayes  
+*Grade:* Distinction  
+*Supervisor:* Rahime Belen Saglam
 
-## 🎓 Academic Information
-- *University:* University of East London
-- *Degree:* MSc Computer Science (Distinction)
-- *Student:* Tulasi Gowdru Halesh
-- *Supervisor:* Rahime Belen Saglam
+---
 
-## 📫 Contact
+## Contact
+
 - *Email:* tulasigowdruhalesh21@gmail.com
 - *LinkedIn:* www.linkedin.com/in/tulasi-gh-645221257
-
+- *GitHub:* github.com/tulasi-gh21
