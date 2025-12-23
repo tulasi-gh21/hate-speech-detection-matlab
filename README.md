@@ -1,4 +1,4 @@
-# 🎓 Hate Speech Detection on Social Media Using MATLAB
+# 🎓 Hate Speech Detection on Social Media using Machine Learning (SVM, NLP)
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2023b-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
