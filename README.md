@@ -26,7 +26,7 @@ This is my *Master's Dissertation project* from the *University of East London. 
 - *University:* University of East London
 - *Degree:* MSc Computer Science (Distinction)
 - *Student:* Tulasi Gowdru Halesh
-- *Supervisor:* Rahime Belen Saglam
+
 
 ## 📫 Contact
 - *Email:* tulasigowdruhalesh21@gmail.com
