@@ -8,7 +8,7 @@
 🎯 *Seeking:* Artificial Intelligence and Data Science engineering roles  
 🔬 *Specialized in:* Machine Learning, NLP, Data Analysis  
 📍 *Based in:* London, UK  
-🔭 *Currently:* Working on hate speech detection research
+🔭 *Completed:* Working on hate speech detection research
 
 ---
 
